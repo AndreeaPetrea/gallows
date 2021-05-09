@@ -1,0 +1,7 @@
+.left, .right {
+	display: inline-block;
+	width: 48%;
+}
+.right {
+	vertical-align: top;
+}
